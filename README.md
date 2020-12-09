@@ -13,9 +13,9 @@ I am [isirk](https://asksirk.com)
 
 ### Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=isirk&show_icons=true&theme=algolia&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=isirk&show_icons=true&theme=algolia&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirk&layout=compact&theme=algolia)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirk&layout=compact&theme=algolia)
 
 ### Some Cool Repositories
 
