@@ -19,7 +19,7 @@ I am [isirk](https://asksirk.com)
 
 ### Some Cool Repositories
 
-<a href="https://github.com/isirk/Sirks">
+<a href="https://github.com/isirk/Sirk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isirk&repo=Sirk&theme=algolia" />
 </a>
 <a href="https://github.com/andreimarcu/linx-client">
