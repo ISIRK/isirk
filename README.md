@@ -13,15 +13,15 @@ I am [isirk](https://asksirk.com)
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=isirk&show_icons=true&theme=algolia&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=isirk&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirk&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirk&layout=compact&theme=algolia&hide_border=true)
 
 ### Some Cool Repositories
 
 <a href="https://github.com/isirk/Sirk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isirk&repo=Sirk&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isirk&repo=Sirk&theme=algolia&hide_border=true" />
 </a>
 <a href="https://github.com/andreimarcu/linx-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreimarcu&repo=linx-server&theme=algolia&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreimarcu&repo=linx-server&theme=algolia&show_owner=true&hide_border=true" />
 </a>
