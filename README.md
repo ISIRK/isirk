@@ -2,7 +2,7 @@
 
 I am [isirk](https://asksirk.com)
 
-- 🔭 I’m currently working on Sirk Bot ([Repo](https://github.com/isirk/Sirk), [Website](https://asksirk.com))
+- 🔭 I’m currently working on Sirk Bot ([Repo](https://github.com/isirk/Sirk), [Website](https://asksirk.com/bot/))
 - 🌱 I’m currently learning postgresql
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with postgresql databases
