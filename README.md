@@ -25,6 +25,6 @@ I am [isirk](https://asksirk.com)
 <a href="https://github.com/isirk/Sirk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isirk&repo=Sirk&theme=algolia&hide_border=true" />
 </a>
-<a href="https://github.com/andreimarcu/linx-client">
+<a href="https://github.com/andreimarcu/linx-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreimarcu&repo=linx-server&theme=algolia&show_owner=true&hide_border=true" />
 </a>
