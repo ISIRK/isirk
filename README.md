@@ -2,7 +2,7 @@
 
 I am [isirk](https://asksirk.com)
 
-- 🔭 I’m currently working on Sirk Bot ([Repo](https://github.com/isirk/Sirk), [Website](https://asksirk.com/bot/))
+- 🔭 I’m currently working on Sirk Bot ([Website](https://asksirk.com/bot/))
 - 🌱 I’m currently learning postgresql
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with postgresql databases
@@ -22,9 +22,6 @@ I am [isirk](https://asksirk.com)
 
 ### Some Cool Repositories
 
-<a href="https://github.com/isirk/Sirk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isirk&repo=Sirk&theme=algolia&hide_border=true" />
-</a>
 <a href="https://github.com/andreimarcu/linx-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreimarcu&repo=linx-server&theme=algolia&show_owner=true&hide_border=true" />
 </a>
